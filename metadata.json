@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TalentFlow Pro - Candidate Search",
+  "description": "A high-performance, enterprise-grade candidate search platform with AI-powered resume insights, inspired by top job boards like Indeed and Dice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
